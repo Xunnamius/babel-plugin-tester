@@ -3,7 +3,6 @@
 <!-- badges-start -->
 
 [![Black Lives Matter!][badge-blm]][link-blm]
-[![Maintenance status][badge-maintenance]][link-repo]
 [![Last commit timestamp][badge-last-commit]][link-repo]
 [![Open issues][badge-issues]][link-issues]
 [![Pull requests][badge-pulls]][link-pulls]
